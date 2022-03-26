@@ -6,8 +6,7 @@ THomas High School has found evidence that there has been academic dishonesty wi
 ### School Summary 
 ### Replacing 9th Graders' Math and Reading Scores affect on: 
 - Thomas High School's Performance Relative to the other schools 
-https://github.com/kmakar24/School_District_Analysis/issues/1#issue-1181928031- Math and reading scores by grade
-- Scores by school spending 
+https://user-images.githubusercontent.com/95380887/160250771-ec18d761-6953-42f8-bcca-4ce3ba20d5c8.png- Scores by school spending 
 - Scores by school size 
 - 
 - Scores by school type 
