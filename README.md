@@ -6,13 +6,14 @@ THomas High School has found evidence that there has been academic dishonesty wi
 ### School Summary 
 ### Replacing 9th Graders' Math and Reading Scores affect on: 
 - Thomas High School's Performance Relative to the other schools 
-https://user-images.githubusercontent.com/95380887/160250771-ec18d761-6953-42f8-bcca-4ce3ba20d5c8.png- Scores by school spending 
+https://user-images.githubusercontent.com/95380887/160250771-ec18d761-6953-42f8-bcca-4ce3ba20d5c8.png 
+Scores by school spending 
 - Scores by school size 
 - 
 - Scores by school type 
   1. Original Scores 
      a. Charter: Math 83.5 and Reading 83.9
-     b. District: Math 77 and Reading 81
+Cancel changes     b. District: Math 77 and Reading 81
   3. New Scores 
      a. Charter:Math 83.5 and Reading 83.9
      b. District: Math 77 and Reading 81
